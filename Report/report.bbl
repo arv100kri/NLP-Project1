@@ -1,0 +1,20 @@
+\begin{thebibliography}{1}
+
+\bibitem{rennie2003tackling}
+J.D. Rennie, L.~Shih, J.~Teevan, D.~Karger, et~al.
+\newblock Tackling the poor assumptions of naive bayes text classifiers.
+\newblock In {\em MACHINE LEARNING-INTERNATIONAL WORKSHOP THEN CONFERENCE-},
+  volume~20, page 616, 2003.
+
+\bibitem{wilson2009recognizing}
+T.~Wilson, J.~Wiebe, and P.~Hoffmann.
+\newblock Recognizing contextual polarity: An exploration of features for
+  phrase-level sentiment analysis.
+\newblock {\em Computational linguistics}, 35(3):399--433, 2009.
+
+\bibitem{scipy}
+Scientific Python.
+\newblock Spatial distance correlation \\ \textsc{Url}:
+  http://docs.scipy.org/doc/scipy/reference/generated\\/scipy.spatial.distance.correlation.html?highlight=correlation\#scipy.spatial.distance.correlation.
+
+\end{thebibliography}
